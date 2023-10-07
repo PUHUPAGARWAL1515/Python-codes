@@ -1,4 +1,4 @@
-# Initially written by Puhup Agarwal
+# Written by Puhup Agarwal
 
 from fatshell.modules import color_print
 
